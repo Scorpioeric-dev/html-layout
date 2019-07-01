@@ -1,0 +1,49 @@
+.upper-box{
+    border:  5px solid black;
+    padding: 100px;
+    box-sizing: border-box;
+    height: 50px;
+}
+.center-box{
+    
+    border: 5px dashed black ;
+    padding: 125px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    
+}
+.bottom-box{
+  color: gray;
+  height: 100px;
+  border: 2px solid;
+  width: 655px;
+  padding: 100px;
+  margin: 50px;
+  align-items: center;
+}
+.square-one{
+   background-color: green;
+    height: 150px;
+    padding: 30px;
+    margin: 100px;
+    display: inline-block;
+}
+.square-two{
+    background-color: blue;
+    height: 170px;
+    padding: 50px;
+    margin: 140px;
+    width: 400px;
+}
+.circle{
+    background-color: turquoise;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+
+
+}
+.second-box{
+
+}
